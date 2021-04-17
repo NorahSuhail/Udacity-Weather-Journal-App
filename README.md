@@ -20,7 +20,7 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 * Edit `website\app.js` add OpenWeatherMap API to `const theKey = '&appid=';` after the `=` symbol.
 * Start Server `node .\server.js`.
 
-## Blog Screenshots
+## Screenshots
 ![Home Page](screenshot.PNG)
 
 ## Useful Links
